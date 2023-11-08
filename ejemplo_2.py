@@ -19,6 +19,9 @@ def sumar_stock():
 
     # Imprimir todos los datos juntos
     print(stock)
+    print(stock)
+    print(stock)
+    print(stock)
 
     # Recorremos las filas del archivo
     # Acumular el stock de arandelas

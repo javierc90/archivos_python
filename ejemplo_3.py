@@ -53,4 +53,3 @@ if __name__ == '__main__':
     print("Bienvenidos a otra clase de Inove con Python")
     altura_promedio("femenino")
     altura_promedio("masculino")
-    altura_promedio("masculino")
